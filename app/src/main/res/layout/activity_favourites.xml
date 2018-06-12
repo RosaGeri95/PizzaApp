@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="9"
+    tools:context="hu.bme.aut.pizzaapp.favourites.FavouritesActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/favourites_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnSave"
+            style="@style/Button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/add_selected_items" />
+
+        <Button
+            android:id="@+id/btnCancel"
+            style="@style/Button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/cancel" />
+
+    </LinearLayout>
+</LinearLayout>
+
