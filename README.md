@@ -10,4 +10,4 @@ Az alkalmazás egy (fiktív) Pizzéria mobilos (Androidos) felülete, ami segít
 * A kosárból törölni is lehet tételeket, illetve az áruk árát mindig kiírja és összesíti is. Ha megvagyunk, el lehet kezdeni a rendelést.
 
 
-![pizza1](https://user-images.githubusercontent.com/31664276/57456798-8c75a500-726e-11e9-8ccf-4997bc03bbe1.PNG)![pizza2](https://user-images.githubusercontent.com/31664276/57456838-a44d2900-726e-11e9-8397-9784b14bbbc2.PNG)
+![pizza1](https://user-images.githubusercontent.com/31664276/57456798-8c75a500-726e-11e9-8ccf-4997bc03bbe1.PNG)    ![pizza2](https://user-images.githubusercontent.com/31664276/57456838-a44d2900-726e-11e9-8397-9784b14bbbc2.PNG)
