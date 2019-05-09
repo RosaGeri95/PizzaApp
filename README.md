@@ -8,3 +8,6 @@ Az alkalmazás egy (fiktív) Pizzéria mobilos (Androidos) felülete, ami segít
 * A megrendelt tételeket egy kosárban jelenti meg RecyclerView segítségével.
 * A kosárba kétféleképpen lehet pizzát betenni: A kedvencek (és az előre összeállítottak) nézetről egy kattintásra, ezek egy adatbázisban vannak eltárolva. A másik lehetőség, ha magunk rakjuk össze, ezt egy DialogFragment segítségével lehet megtenni.
 * A kosárból törölni is lehet tételeket, illetve az áruk árát mindig kiírja és összesíti is. Ha megvagyunk, el lehet kezdeni a rendelést.
+
+
+![pizza1](https://user-images.githubusercontent.com/31664276/57456798-8c75a500-726e-11e9-8ccf-4997bc03bbe1.PNG)
